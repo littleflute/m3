@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 See You at the Bottom.mp3";		
+f[2]	= "02 Same Damn Life.mp3";		
+f[3]	= "03 Words as Weapons.mp3";		
+f[4]	= "04 My Disaster.mp3";		
+f[5]	= "05 Crash.mp3";		
+f[6]	= "06 Suffer It All.mp3";		
+f[7]	= "07 Watch Me Drown.mp3";		
+f[8]	= "08 Nobody Praying for Me.mp3";		
+f[9]	= "09 Keep the Dogs at Bay.mp3";		
+f[10]	= "10 Save Today.mp3";		
